@@ -1,0 +1,28 @@
+{
+  "name": "nodekatas",
+  "version": "0.0.0",
+  "description": "Bunch of katas to practice node",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vincelee888/nodekatas.git"
+  },
+  "keywords": [
+    "node",
+    "katas",
+    "learn"
+  ],
+  "author": "vincelee888",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincelee888/nodekatas/issues"
+  },
+  "homepage": "https://github.com/vincelee888/nodekatas"
+}
